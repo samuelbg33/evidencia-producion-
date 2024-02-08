@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    
+}
+.imagen1{
+    height: 300px;
+    position: relative;
+    margin-left: 90px;
+    margin-top: 100px;
+    border-radius: 50px;
+    border: solid 15px #0079a6;
+}
+
+.resume {
+    width: 600px;
+    margin: 2px auto;
+    background-color: #ffffff;
+    padding: 1rem;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+    margin-left: 600px;
+    margin-top: -100px;
+}
+
+.name {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.degree {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 1rem;
+}
+.universidad{
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.about {
+    margin-bottom: 1rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #666;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.experience,
+.education {
+    margin-left: 1rem;
+}
+
+.job-experience,
+.education {
+    margin-bottom: 0.5rem;
+}
+
+.position {
+    font-weight: bold;
+}
+.columna1{
+    padding: 50px;
+    height: 1500px;
+    width: 100px;
+    background-color: #0f406b;
+}
+h4{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #666;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
